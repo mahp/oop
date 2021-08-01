@@ -1,2 +1,9 @@
 # oop
-Object Oriented Programming
+Javascript Object Oriented Programming
+
+* [1.原始类型和引用类型](1.原始类型和引用类型.md)
+* [2.函数](/2.函数.md)
+* [3.对象](/3.对象.md)
+* [4.构造函数和原型](/4.构造函数和原型.md)
+* [5.继承](/5.继承.md)
+* [6.对象模式](/6.对象模式.md)
